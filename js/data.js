@@ -1,6 +1,6 @@
 /* 
-* @Author: luuman
-* @Last Modified by:   luuman
+* @Author: maoguijun
+* @Last Modified by:   maoguijun
 * @Date:   2016-03-09 13:13:56
 * @Last Modified time: 2016-04-07 14:29:18
 * @Function: Data FrontEndGuide
@@ -637,10 +637,10 @@ var FrontGuide = {
         "pageC1":[{
             "pageT2":"我的链接",
             "pageC2":[
-                {'Name':'主页','Title':'爱折腾，爱运动，更爱游离于错综复杂的编码与逻辑中，无法自拔。','Href':'http://luuman.github.io/Home/'},
-                {'Name':'博客','Title':'因为有了危机感，所以会义无反顾。','Href':'http://luuman.github.io/'},
-                {'Name':'项目','Title':'开发项目','Href':'http://luuman.github.io/works/'},
-                {'Name':'原生Js','Title':'记录自己学习原生JavaScript的路径','Href':'http://luuman.github.io/works/'},
+                {'Name':'主页','Title':'爱折腾，爱看书。','Href':'http://maoguijun.github.io/Home/'},
+                {'Name':'博客','Title':'因为有了危机感，所以会义无反顾。','Href':'http://maoguijun.github.io/'},
+                {'Name':'项目','Title':'开发项目','Href':'http://maoguijun.github.io/works/'},
+                {'Name':'原生Js','Title':'记录自己学习原生JavaScript的路径','Href':'http://maoguijun.github.io/works/'},
             ]
             },{
             "pageT2":"国内博客",
